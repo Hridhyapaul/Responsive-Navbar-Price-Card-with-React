@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Membership",
+      "price": 49.99,
+      "features": ["Access to gym equipment", "Locker room access", "24/7 access to gym facilities"]
+    },
+    {
+      "id": 2,
+      "name": "Premium Membership",
+      "price": 99.99,
+      "features": ["Access to gym equipment", "Locker room access", "24/7 access to gym facilities", "Group fitness classes"]
+    },
+    {
+      "id": 3,
+      "name": "Ultimate Membership",
+      "price": 149.99,
+      "features": ["Access to gym equipment", "Locker room access", "24/7 access to gym facilities", "Group fitness classes", "Personal training sessions"]
+    }
+  ]
+  
